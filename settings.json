@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
-    "version": "1.21.1"
+    "ip": "NobitaXVictor.aternos.me",
+    "port": 27121,
+    "version": "1.17.40"
   },
   "position": {
     "enabled": true,
